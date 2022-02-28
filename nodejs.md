@@ -3,7 +3,7 @@
 Hi! My name is Himal  Rawal . Here I will be taking notes about the **errors and issues**  that I have  faced during learning node js wih their solutuions.
 
 
-## My First Issue: CORS
+## 1. My First Issue: CORS
 
 I got Following error while connecting node js api  in  React front end.
 
